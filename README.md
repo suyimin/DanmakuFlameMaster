@@ -1,6 +1,8 @@
 DanmakuFlameMaster
 ==================
 
+A copy of https://github.com/Bilibili/DanmakuFlameMaster.
+
 android上开源弹幕解析绘制引擎项目。[![Build Status](https://travis-ci.org/Bilibili/DanmakuFlameMaster.png?branch=master)](https://travis-ci.org/Bilibili/DanmakuFlameMaster)
 
 ### DFM Inside: 
